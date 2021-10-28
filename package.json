@@ -1,0 +1,27 @@
+{
+  "name": "simple-product-db",
+  "version": "1.0.0",
+  "description": "A server for simple product web app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berakoc/simple-product-db.git"
+  },
+  "keywords": [
+    "db",
+    "server",
+    "product"
+  ],
+  "author": "Bera Koç",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/berakoc/simple-product-db/issues"
+  },
+  "homepage": "https://github.com/berakoc/simple-product-db#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
